@@ -9,4 +9,6 @@ Analysis: The system processes the input data using its machine learning algorit
 Recommendations: Review the personalized drug recommendations provided by the system. Each recommendation includes information on efficacy, potential side effects, and any interactions with other medications.
 Prescription: Choose the most appropriate medication from the recommendations and proceed with prescribing it to the patient.
 
-#Important resources yet to be added
+#Important resources
+
+Data Source : https://www.kaggle.com/datasets/noorsaeed/medicine-recommendation-system-dataset
