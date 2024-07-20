@@ -1,0 +1,21 @@
+#Project Design
+
+1. Model Training ( Machine Learning )
+    1.1. Data Collection
+    1.2. Data Preprocessing
+    1.3. Data Cleaning
+    1.4. Data Train & Test Split
+    1.5. Training with Top Models
+    1.6. Data Prediction
+    1.7. Initializing Recommendation System
+    1.8. Recommendation Prediction Model
+    1.9. Logic Implementation for recommendation system
+
+2. UI/UX Design
+    2.1. Study on Flask Frame work
+    2.2. Create basic user page
+    2.3. Loading Data
+    2.4. Syncronizing Trained model with UI
+    2.5. Model Review
+    2.6. Scalability Testing
+    2.7. Final Testing
